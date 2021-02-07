@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Siguiendo el Curso de Fernando Herrera https://www.udemy.com/course/flutter-primeros-pasos
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
