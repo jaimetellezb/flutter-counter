@@ -1,0 +1,4 @@
+{
+    "image": "jaimetellezb/flutter:beta",
+    "forwardPorts": [3000]
+}
